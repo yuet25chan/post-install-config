@@ -56,6 +56,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
+Configure Departments (Ticket Visibility, Help Desk vs SysAdmins, vs Networking)
+Admin Panel -> Agents -> Departments
+SysAdmins
+
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
