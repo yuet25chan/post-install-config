@@ -38,9 +38,15 @@ Once logged in, click on the Admin Panel. Hover over "Agents" and click on "Role
 
 ![image](https://github.com/user-attachments/assets/0a4e6631-3769-4a2d-a508-2fbdc8926024)
 
+![image](https://github.com/user-attachments/assets/f1be395a-51f0-4efd-8e4d-5016329ef64c)
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+  
+![image](https://github.com/user-attachments/assets/f1be395a-51f0-4efd-8e4d-5016329ef64c)
+
+
 </p>
 <br />
 
