@@ -34,6 +34,10 @@ This tutorial outlines the post-install configuration of the open-source help de
   
 ![image](https://github.com/user-attachments/assets/35ed2ee0-61f2-40b8-b9d5-40e543960232)
 
+Once logged in, click on the Admin Panel. Hover over "Agents" and click on "Roles" in the dropdown menu.
+
+![image](https://github.com/user-attachments/assets/0a4e6631-3769-4a2d-a508-2fbdc8926024)
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
