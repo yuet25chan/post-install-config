@@ -1,6 +1,8 @@
 <p align="center">
 ![image](https://github.com/user-attachments/assets/dfa00ec3-dd4d-4f98-a726-8a2413fd0a4e)
 
+![image](https://github.com/user-attachments/assets/cfc17c51-b39c-47c4-be95-4e5f2193cee8)
+
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
