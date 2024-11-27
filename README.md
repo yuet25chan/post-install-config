@@ -101,6 +101,10 @@ John (Dept: Support)
 
 ![image](https://github.com/user-attachments/assets/344d42bc-9e3c-47bd-bdaa-279f002210c2)
 
+Configure Agents (workers)
+Admin Panel -> Agents -> Add New
+Jane (Dept: SysAdmins)
+John (Dept: Support)
 
 </p>
 <br />
