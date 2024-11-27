@@ -107,6 +107,14 @@ Karen
 Ken
 
 ![image](https://github.com/user-attachments/assets/4108f81f-b269-42ee-9da9-fb1e64018b53)
+Configure SLA
+Admin Panel -> Manage -> SLA
+Sev-A (Grace Period: 1 hour, Schedule: 24/7)
+Sev-B (Grace Period: 4 hours, Schedule: 24/7)
+Sev-C (Grace Period: 8 hours, Business Hours)
+
+
+![image](https://github.com/user-attachments/assets/1ae05756-c177-4bda-a900-00ded20214af)
 
 </p>
 <br />
