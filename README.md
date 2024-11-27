@@ -125,8 +125,11 @@ Personal Computer Issues
 Equipment Request
 Password Reset
 Other
+![image](https://github.com/user-attachments/assets/6d4c1731-0cca-40c7-8768-c25d9dbaad16)
 
+![image](https://github.com/user-attachments/assets/78051ee8-bb0a-44f4-890a-743915b64542)
 
+![image](https://github.com/user-attachments/assets/dcd882cd-9009-4dbb-8c0f-bf8253c806f6)
 
 </p>
 <br />
