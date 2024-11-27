@@ -78,9 +78,11 @@ Online Banking
 Allow anyone to create tickets
 Admin Panel -> Settings -> User Settings (UNCHECK: unregistered users can create tickets)
 Registration Required: Require registration and login to create tickets 
+  
+![image](https://github.com/user-attachments/assets/dd2ec249-a992-4e4e-9a47-2431de3a4370)
 
   
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
