@@ -101,6 +101,10 @@ John (Dept: Support)
 
 ![image](https://github.com/user-attachments/assets/344d42bc-9e3c-47bd-bdaa-279f002210c2)
 
+Configure Users (customers)
+Agent Panel -> Users -> Add New
+Karen
+Ken
 
 ![image](https://github.com/user-attachments/assets/4108f81f-b269-42ee-9da9-fb1e64018b53)
 
